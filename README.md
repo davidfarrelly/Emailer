@@ -6,4 +6,4 @@ I also want to add a group function so that users can put their contacts into di
 
 Here are  few screenshots 
 
-![logo](emailer-logo.png)
+![logo](register_page.png)
