@@ -14,3 +14,8 @@ Login Page
 
 Main Page
 ![Main Page](screenshots/main_page.PNG)
+
+There is a demo available here:
+www.mailerdemo.site88.net
+Username - demo_user
+Password = demo_pass
